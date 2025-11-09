@@ -1,54 +1,112 @@
-<!-- Profile Header -->
-<img src="https://github.com/saif-shah-datascientist/saif-shah-datascientist/assets/banner.png" alt="Saif Shah Banner" width="100%">
-
-<h1 align="center">Hi 👋, I'm Saif Shah</h1>
-<h3 align="center">Aspiring Data Scientist | Python | Power BI | Machine Learning</h3>
+<!-- PROFILE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Saif%20Shah%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20|%20Data%20Analyst%20|%20Power%20BI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 ---
 
-### 🧠 About Me
-- 🎓 Learning **Data Science** & **Machine Learning**
-- 📊 Skilled in **Python**, **Pandas**, **Seaborn**, **PowerBI**
-- 🌱 Currently improving projects on **data visualization and dashboards**
-- 💬 Ask me about: Data Cleaning, EDA, Power BI
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/YOUR-LINK)** | **[Email](mailto:youremail@gmail.com)**
+<h2 align="center">🚀 About Me</h2>
 
----
-
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-0077B6?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saif-Shah-DataScientist&show_icons=true&theme=tokyonight" alt="Saif's GitHub stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Shah-DataScientist&layout=compact&theme=tokyonight" alt="Top Languages" width="45%">
+  🎓 I’m <b>Saifullah Khalid</b> — a passionate learner exploring the fields of <b>Data Science, Analytics, and Visualization</b>.<br><br>
+  💡 I love turning raw data into actionable insights through analysis and storytelling using Python, Power BI, and Machine Learning.<br><br>
+  📊 My GitHub features real-world analytical projects, Power BI dashboards, and data-driven problem-solving examples.<br><br>
+  🌱 Currently working on expanding my portfolio with advanced analytics and dashboard projects.<br><br>
+  ✨ Motto: <i>“Data never lies — it just waits to be understood.”</i>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+<h2 align="center">🧰 Tech Stack</h2>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saif-Shah-DataScientist&theme=onedark" alt="Trophies">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+<h2 align="center">🎓 Professional Certifications</h2>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/M6ZNHCMHE5IO" target="_blank">
+    <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Certificate"/>
   </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/NG1704AD1MQU" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate"/>
+  </a>
+  <a href="https://coursera.org/share/f0f8c35c1da3da8beb6038cf2c48d6f6" target="_blank">
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization%20Certificate-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization"/>
+  </a>
+  <a href="https://www.credly.com/badges/83cb0c70-2fdc-4f62-9004-eb34b706619c/public_url" target="_blank">
+    <img src="https://img.shields.io/badge/Data%20Analysis%20Using%20Python%20Badge-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Using Python Badge"/>
   </a>
 </p>
 
 ---
 
-⭐ From [Saif-Shah-DataScientist](https://github.com/Saif-Shah-DataScientist)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saif-Shah-DataScientist&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Shah-DataScientist&theme=tokyonight&hide_border=false&background=0D1117" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Shah-DataScientist&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" width="45%" />
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saif-Shah-DataScientist&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/saifullah-khalid-919770233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/17WXHaoR7K/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/saifshah06321?igsh=Y2V3eHpxb3F2Zmh2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923166369323" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:saifshah0100@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Highlights</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Saif-Shah-DataScientist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="85%" />
+</p>
+
+---
+
+<h2 align="center">💬 Quote of the Day</h2>
+
+<p align="center">
+  <i>“Data is a precious thing and will last longer than the systems themselves.”</i><br>
+  — Tim Berners-Lee
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
