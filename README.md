@@ -1,10 +1,11 @@
-<!-- Animated Header -->
+<!-- Animated Header with Gradient & Smooth Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2E97FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Saifullah+Khalid+👋;Data+Scientist+%7C+Data+Analyst+%7C+Power+BI+Enthusiast;Turning+Data+Into+Insights+📊" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9F2BFF&center=true&vCenter=true&width=850&lines=Hi+I'm+Saifullah+Khalid+👋;Data+Scientist+%7C+Data+Analyst+%7C+Power+BI+Expert;Passionate+About+Turning+Data+Into+Insights+📊;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
 </p>
 
+<!-- Gradient Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Saifullah%20Khalid&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20|%20Analyst%20|%20Storyteller%20with%20Data&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:3f5efb,100:e1306c&height=220&section=header&text=Saifullah%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Data%20Analyst%20|%20Power%20BI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 ---
@@ -12,10 +13,10 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  🎓 I'm <b>Saifullah Khalid</b> — a passionate learner in <b>Data Science, Analytics, and Visualization</b>.<br><br>
-  💡 I enjoy transforming raw datasets into meaningful insights using Python, Power BI, and analytical storytelling.<br><br>
-  📈 My projects focus on real-world data exploration, visualization, and business problem solving.<br><br>
-  🌱 Currently expanding my portfolio with advanced dashboards and machine learning projects.<br><br>
+  🎓 I'm <b>Saifullah Khalid</b> — a dedicated data enthusiast passionate about <b>Data Science, Analytics, and Visualization</b>.<br><br>
+  💡 I love exploring patterns in data, building insights, and creating impactful dashboards with Python and Power BI.<br><br>
+  📈 My projects reflect real-world business understanding and analytical problem-solving.<br><br>
+  🌱 Currently learning advanced data modeling and visualization storytelling.<br><br>
   🧠 “Data never lies — it just waits to be understood.”
 </p>
 
@@ -38,16 +39,16 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/specialization/M6ZNHCMHE5IO" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-006699?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Data Science Professional Certificate"/>
+    <img src="https://img.shields.io/badge/IBM%20Data%20Science%20Professional%20Certificate-006699?style=for-the-badge&logo=ibm&logoColor=white"/>
   </a>
   <a href="https://www.coursera.org/account/accomplishments/specialization/NG1704AD1MQU" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics Certificate"/>
+    <img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://coursera.org/share/f0f8c35c1da3da8beb6038cf2c48d6f6" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization%20Certificate-FF6F00?style=for-the-badge&logo=coursera&logoColor=white" alt="Machine Learning Specialization Certificate"/>
+    <img src="https://img.shields.io/badge/Machine%20Learning%20Specialization%20Certificate-FF6F00?style=for-the-badge&logo=coursera&logoColor=white"/>
   </a>
   <a href="https://www.credly.com/badges/83cb0c70-2fdc-4f62-9004-eb34b706619c/public_url" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Data%20Analysis%20Using%20Python%20Badge-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Data Analysis Using Python Badge"/>
+    <img src="https://img.shields.io/badge/Data%20Analysis%20Using%20Python%20Badge-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   </a>
 </p>
 
@@ -56,12 +57,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saif-Shah-DataScientist&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Shah-DataScientist&theme=tokyonight&hide_border=false&background=0D1117" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saif-Shah-DataScientist&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saif-Shah-DataScientist&theme=radical&hide_border=false&background=0D1117" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Shah-DataScientist&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Shah-DataScientist&layout=compact&theme=radical&hide_border=false&bg_color=0D1117" width="45%" />
 </p>
 
 ---
@@ -69,7 +70,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saif-Shah-DataScientist&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Saif-Shah-DataScientist&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
@@ -99,7 +100,7 @@
 <h2 align="center">🔥 Activity Snapshot</h2>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Saif-Shah-DataScientist&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="85%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Saif-Shah-DataScientist&limit=5&theme=radical&combine_all_yearly_contributions=true" width="85%" />
 </p>
 
 ---
@@ -112,5 +113,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1306c,50:3f5efb,100:833ab4&height=120&section=footer"/>
 </p>
