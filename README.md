@@ -1,12 +1,13 @@
 <!-- Animated Header with Gradient & Smooth Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=9F2BFF&center=true&vCenter=true&width=850&lines=Hi+I'm+Saifullah+Khalid+👋;Data+Scientist+%7C+Data+Analyst+%7C+Power+BI+Expert;Passionate+About+Turning+Data+Into+Insights+📊;Welcome+to+My+GitHub+Profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=3F5EFB&center=true&vCenter=true&width=900&lines=Hi!+I'm+Saifullah+Khalid+👋;Data+Scientist+|+Data+Analyst+|+Power+BI+Expert;Turning+Data+Into+Actionable+Insights+📊;Welcome+To+My+GitHub+Profile!">
 </p>
 
 <!-- Gradient Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833ab4,50:3f5efb,100:e1306c&height=220&section=header&text=Saifullah%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Data%20Analyst%20|%20Power%20BI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,50:833ab4,100:e1306c&height=220&section=header&text=Saifullah%20Khalid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20|%20Data%20Analyst%20|%20Power%20BI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </p>
+
 
 ---
 
@@ -115,3 +116,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e1306c,50:3f5efb,100:833ab4&height=120&section=footer"/>
 </p>
+
